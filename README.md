@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=OS634&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-orcin-zeta.vercel.app?user=OS634&theme=highcontrast)](https://git.io/streak-stats)
